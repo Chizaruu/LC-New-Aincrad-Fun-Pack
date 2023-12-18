@@ -3,5 +3,16 @@
     "version_number": "1.0.0",
     "website_url": "https://github.com/Chizaruu/LC-New-Aincrad-Fun-Pack",
     "description": "Mod Pack for New Aincrad server use!",
-    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "notnotnotswipez-MoreCompany-1.7.2",
+        "anormaltwig-LateCompany-1.0.6",
+        "RugbugRedfern-Skinwalkers-2.0.1",
+        "FlipMods-BetterStamina-1.2.2",
+        "AlexCodesGames-AdditionalSuits-1.1.1",
+        "x753-Mimics-2.2.0",
+        "RickArg-Helmet_Cameras-2.1.5",
+        "malco-Lategame_Upgrades-2.6.1",
+        "Sligili-More_Emotes-1.2.2"
+    ]
 }
