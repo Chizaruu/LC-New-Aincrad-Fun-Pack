@@ -1,6 +1,6 @@
 {
     "name": "NewAincradsFunPack",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/Chizaruu/LC-New-Aincrad-Fun-Pack",
     "description": "Mod Pack for New Aincrad server use!",
     "dependencies": [
@@ -13,6 +13,10 @@
         "x753-Mimics-2.2.1",
         "RickArg-Helmet_Cameras-2.1.5",
         "malco-Lategame_Upgrades-2.6.5",
-        "Sligili-More_Emotes-1.2.2"
+        "Sligili-More_Emotes-1.2.2",
+        "Suskitech-AlwaysHearActiveWalkies-1.4.3",
+        "egeadam-MoreScreams-1.0.3",
+        "azim-lethalpresents-1.0.3",
+        "elitemastereric-coroner-1.4.2"
     ]
 }
