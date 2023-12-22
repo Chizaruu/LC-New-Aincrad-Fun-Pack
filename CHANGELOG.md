@@ -1,3 +1,5 @@
+-   v1.0.3
+    -   Update for even more updates
 -   v1.0.2
     -   Update for more updates
 -   v1.0.1
