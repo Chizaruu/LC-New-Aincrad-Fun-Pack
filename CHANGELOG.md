@@ -1,3 +1,5 @@
+-   v1.0.5
+    -   Add Teminal Extras for Teleport
 -   v1.0.4
     -   Update for even more updates x 2
 -   v1.0.3
@@ -6,5 +8,4 @@
     -   Update for more updates
 -   v1.0.1
     -   Update for updates
--   v1.0.0
-    -   Release
+-   v1.0.0 - Release
