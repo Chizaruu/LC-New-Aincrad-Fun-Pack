@@ -1,6 +1,6 @@
 {
     "name": "NewAincradsFunPack",
-    "version_number": "1.0.5",
+    "version_number": "1.0.6",
     "website_url": "https://github.com/Chizaruu/LC-New-Aincrad-Fun-Pack",
     "description": "Mod Pack for New Aincrad server use!",
     "dependencies": [
@@ -36,6 +36,7 @@
         "FlipMods-LetMeLookDown-1.0.1",
         "tinyhoot-ShipLoot-1.0.0",
         "Rune580-LethalCompany_InputUtils-0.4.3",
-        "anormaltwig-TerminalExtras-1.0.1"
+        "anormaltwig-TerminalExtras-1.0.1",
+        "Evaisa-LethalThings-0.8.8"
     ]
 }

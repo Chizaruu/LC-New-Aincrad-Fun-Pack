@@ -1,3 +1,5 @@
+-   v1.0.6
+    -   Rocket launcher tho
 -   v1.0.5
     -   Add Teminal Extras for Teleport
 -   v1.0.4
