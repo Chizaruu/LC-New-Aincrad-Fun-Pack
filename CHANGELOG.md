@@ -1,3 +1,5 @@
+-   v1.0.7
+    -   Errr... Many mods added and removed
 -   v1.0.6
     -   Rocket launcher tho
 -   v1.0.5
