@@ -1,3 +1,5 @@
+-   v1.0.8
+    -   Maids are nice too
 -   v1.0.7
     -   Errr... Many mods added and removed
 -   v1.0.6
